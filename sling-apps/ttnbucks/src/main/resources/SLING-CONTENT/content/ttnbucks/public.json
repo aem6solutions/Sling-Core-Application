@@ -1,0 +1,7 @@
+{
+    "jcr:primaryType" : "nt:unstructured",
+    "orders" : {
+      "jcr:title" : "Welcome to TTNBucks. Please order here.",
+      "sling:resourceType" : "ttnbucks/welcome"
+    }
+}

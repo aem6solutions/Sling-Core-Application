@@ -1,0 +1,59 @@
+h1.confirmOrderHeading {
+    color: wheat;
+    margin-left: 23%;
+    font-size: -webkit-xxx-large;
+    font-weight: 800;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+    margin-bottom: -135px;
+}
+
+ul.orderCoffeeUl{
+    overflow:hidden;
+    list-style: none;
+    margin-left: 36%;
+    margin-top: 3%;
+    color: darkorange;
+    font-weight: 700;
+}
+li.orderCoffeeList{
+    display:inline-block;
+    font-size: xx-large;
+}
+body.confirmOrderBody {
+    background-color: black;
+}
+input#order_coffee {
+    margin-left: 38%;
+    margin-top: 3%;
+    font-size: xx-large;
+    font-weight: 700;
+}
+a.btn.btn-danger.orderCancle {
+    margin-top: 3%;
+    margin-left: 3%;
+    font-size: xx-large;
+    font-weight: 700;
+}
+h1.orderCoffeeSubHeads {
+    margin-left: 42%;
+    margin-top: 3%;
+    color: wheat;
+    font-size: xx-large;
+    font-weight: 700;
+}
+h3.orderCoffeeBill {
+    margin-left: 48%;
+    font-size: -webkit-xxx-large;
+    font-weight: 900;
+    color: wheat;
+}
+#confirmBack {
+    margin-bottom: 37px;
+    margin-right: -130px;
+    margin-top: 91px;
+    margin-left: 42px;
+    font-weight: 900;
+
+}

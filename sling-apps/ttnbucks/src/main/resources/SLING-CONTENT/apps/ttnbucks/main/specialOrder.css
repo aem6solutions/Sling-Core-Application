@@ -1,0 +1,108 @@
+.typeahead {
+    background-color: #FFFFFF;
+}
+.typeahead:focus {
+    border: 2px solid #0097CF;
+}
+.tt-query {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+}
+input.typeahead.tt-query {
+    margin-left: 55%;
+    margin-top: -44.5px;
+    color: darkorange;
+    font-size: x-large;
+    font-weight: 800;
+}
+h1.specialOrderHeading {
+    color: wheat;
+    margin-left: 26%;
+    font-size: -webkit-xxx-large;
+    font-weight: 800;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+}
+body.specialOrderBody{
+    background-color: black;
+}
+h2.specialOrderSubhead {
+    color: brown;
+    font-size: -webkit-xxx-large;
+    font-weight: bolder;
+    margin-left: 43%;
+}
+label.specialOrderLabel {
+    color: darkorange;
+    font-size: xx-large;
+    font-weight: 800;
+    margin-left: 30%;
+    margin-top: 1%;
+}
+label.specialOrderData {
+    font-size: x-large;
+    font-weight: 800;
+    color: darkorange;
+    margin-left: 1%;
+}
+ul.specialOrderUl{
+    overflow:hidden;
+    list-style: none;
+    margin-left: 34%;
+    margin-top: 3%;
+    color: darkorange;
+    font-weight: 700;
+}
+li.specialOrderLi{
+    display:inline-block;
+    font-size: xx-large;
+    margin-left: 7%;
+}
+input#confirm_special_order {
+    margin-left: 42%;
+    margin-top: 3%;
+    font-size: xx-large;
+    font-weight: 700;
+}
+img.specialOrderImg1 {
+    margin-left: -53%;
+    margin-top: -17%;
+}
+#lightbox {
+    position: fixed;
+    top: 188px;
+    left: 282px;
+    width: 50%;
+    height: 50%;
+    background: url(/content/ttnbucks/ttnbucks_img/overlay.png) repeat;
+    text-align: center;
+}
+#lightbox p {
+    text-align:right;
+    color:#fff;
+    margin-right:20px;
+    font-size:12px;
+}
+#lightbox img {
+    box-shadow:0 0 25px #111;
+    -webkit-box-shadow:0 0 25px #111;
+    -moz-box-shadow:0 0 25px #111;
+    max-width:940px;
+}
+#lightbox label {
+    color: black;
+    margin-right: 64px;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 75px;
+}
+input#verify {
+    margin-top: 58px;
+    font-size: x-large;
+    font-weight: 900;
+    color: black;
+}
+#specialBack {
+    margin-left: 39px;
+    margin-top: -55px;
+}

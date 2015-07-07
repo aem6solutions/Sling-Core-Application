@@ -1,0 +1,5 @@
+{
+  "jcr:primaryType":"nt:unstructured",
+  "jcr:title":"ADD COFFEE RECIPE",
+  "sling:resourceType":"ttnbucks/addCoffeeRecipe"
+}

@@ -1,0 +1,103 @@
+h1.editCoffeeRecipHeading {
+    margin-left: 29%;
+    font-size: -webkit-xxx-large;
+    color: wheat;
+    font-weight: 800;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+}
+h1.editCoffeeRecipeSub {
+    font-size: xx-large;
+    font-weight: 800;
+    color: darkorange;
+    margin-left: 3%;
+}
+h1#editCoffeeRecipeSubhead {
+    margin-left: 16%;
+    margin-top: 3%;
+    font-size: xx-large;
+    font-weight: 800;
+    color: darkorange;
+}
+body.editCoffeeRecipeBody {
+    background-color: black;
+}
+div.edit{
+    margin-left: 21%;
+}
+.typeahead, .tt-query, .tt-hint {
+    border: 2px solid #CCCCCC;
+    border-radius: 8px;
+    font-size: 24px;
+    height: 30px;
+    line-height: 30px;
+    outline: medium none;
+    padding: 8px 12px;
+    width: 396px;
+}
+.typeahead {
+    background-color: #FFFFFF;
+}
+.typeahead:focus {
+    border: 2px solid #0097CF;
+}
+.tt-query {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+}
+input.typeahead.tt-query {
+    margin-left: 32%;
+    margin-top: 3%;
+    color: brown;
+    font-size: x-large;
+    font-weight: 800;
+}
+label.editCoffeeRecipeLabel {
+    color: aliceblue;
+    font-size: large;
+    font-weight: 900;
+}
+input#coffee_name {
+    margin-left: 36px;
+    margin-bottom: 15px;
+}
+input#recipe_price {
+    margin-left: 41px;
+    margin-bottom: 15px;
+}
+input#unit_coffee {
+    margin-left: 43px;
+    margin-bottom: 15px;
+}
+input#unit_milk {
+    margin-left: 64px;
+    margin-bottom: 15px;
+}
+input#unit_chocolate {
+    margin-left: 12px;
+    margin-bottom: 15px;
+}
+input#unit_sugar {
+    margin-left: 48px;
+    margin-bottom: 15px;
+}
+input#delete_recipe {
+    margin-top: -48px;
+    margin-left: 174px;
+}
+img.editCoffeeRecipeImage {
+    margin-left: 99px;
+    margin-top: 17px;
+    margin-right: -96px;
+}
+#editBack {
+    margin-bottom: 191px;
+    margin-right: -130px;
+    margin-top: -56px;
+    margin-left: 42px;
+    font-weight: 900;
+
+}
+div#editCoffeeImages {
+    margin-top: -167px;
+}

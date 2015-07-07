@@ -1,0 +1,31 @@
+h1#specialOrderConfirmHeading {
+    font-size: -webkit-xxx-large;
+    font-weight: 900;
+    color: black;
+    margin-left: -8px;
+    margin-top: 63px;
+}
+#lightbox {
+    position: fixed;
+    top: 220px;
+    left: 282px;
+    width: 50%;
+    height: 30%;
+    background: url(/content/ttnbucks/ttnbucks_img/overlay.png) repeat;
+    text-align: center;
+}
+body#specialOrderConfirmBody {
+    background-color: black;
+}
+a#specialOrderConfirmHref {
+    margin-top: 12px;
+    color: black;
+    font-weight: 900;
+}
+div#specialOrderCoffeeImages2 {
+    margin-top: 280px;
+    margin-left: 74px;
+}
+div#specialOrderCoffeeImages1 {
+    margin-left: 74px;
+}

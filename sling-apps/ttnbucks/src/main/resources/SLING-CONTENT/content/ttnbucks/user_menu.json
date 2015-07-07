@@ -1,0 +1,5 @@
+{
+  "jcr:primaryType": "nt:unstructured",
+  "jcr:title": "USER MENU",
+  "sling:resourceType": "ttnbucks/user_menu"
+}

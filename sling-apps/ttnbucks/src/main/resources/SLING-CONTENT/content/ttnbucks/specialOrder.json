@@ -1,0 +1,5 @@
+{
+  "jcr:primaryType":"nt:unstructured",
+  "jcr:title":"CONFIRM SPECIAL ORDER",
+  "sling:resourceType":"ttnbucks/specialOrder"
+}

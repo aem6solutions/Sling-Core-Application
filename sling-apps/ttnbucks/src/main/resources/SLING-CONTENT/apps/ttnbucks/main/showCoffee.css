@@ -1,0 +1,42 @@
+h1.showCoffeeHeading {
+    margin-left: 27%;
+    margin-top: 3%;
+    font-size: -webkit-xxx-large;
+    font-weight: 700;
+    color: wheat;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+}
+th.showCoffeeTableHead{
+    text-align: center;
+    color: darkorange;
+    font-size: x-large;
+    font-weight: 700;
+}
+body.showCoffeeBody{
+    background: black;
+}
+td.showCoffeeData {
+    color: wheat;
+    font-weight: 700;
+    font-size: x-large;
+}
+table.showCoffeeTable {
+    background-color: brown;
+    width: 69%;
+    margin-top: -8%;
+}
+a.showCoffeeLink {
+    color: wheat;
+    font-size: x-large;
+    font-weight: 700;
+}
+#showBack {
+    margin-bottom: 191px;
+    margin-right: -130px;
+    margin-top: -56px;
+    margin-left: 42px;
+    font-weight: 900;
+
+}

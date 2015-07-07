@@ -1,0 +1,48 @@
+body.userMenu {
+    background-color: black;
+}
+
+h1.userMenuHeading{
+    color: wheat;
+    font-size: 62px;
+    margin-left: 440px;
+    font-weight: 800;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+}
+p{
+    padding: 50px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background: #f2f2f2;
+}
+label.userMenuLabel{
+    color: brown;
+    font-size: -webkit-xxx-large;
+    font-weight: 600;
+    margin-left: 27%;
+}
+
+ul.userMenuList{
+    list-style-type: none;
+    margin-top: -187px;
+}
+
+img.userMenuImage1 {
+    margin-left: 505px;
+    margin-top: 2%;
+}
+img.userMenuImage2 {
+    margin-left: 477px;
+    margin-top: 3%;
+}
+#userBack {
+    margin-bottom: 191px;
+    margin-right: -130px;
+    margin-top: -56px;
+    margin-left: 42px;
+    font-weight: 900;
+
+}

@@ -1,0 +1,35 @@
+body.adminMenu {
+    background-color: black;
+}
+h1.adminMenuHeading{
+    color: wheat;
+    font-size: 62px;
+    margin-left: 475px;
+    font-weight: 800;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+}
+ul.adminMenuList{
+    list-style-type: none;
+}
+img.adminMenuImage1 {
+    margin-left: 505px;
+    margin-top: 2%;
+}
+img.adminMenuImage2 {
+    margin-left: 506px;
+    margin-top: 3%;
+}
+label.adminMenuLabel{
+    color: brown;
+    font-size: -webkit-xxx-large;
+    font-weight: 600;
+    margin-left: 27%;
+}
+#adminMenuBack {
+    margin-top: -68px;
+    margin-bottom: 3px;
+    margin-left: 32px;
+    font-weight: 900;
+}

@@ -1,0 +1,115 @@
+body.welcomeBody {
+    background-color: black;
+}
+h2{
+    margin: 0;
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;
+}
+.item{
+    background: #333;
+    text-align: center;
+    height: 300px !important;
+ }
+.carousel{
+    margin-top: 20px;
+}
+.bs-example{
+    margin: 20px;
+}
+div .item{
+
+    background-size: 1500px 300px ;
+    background-repeat: no-repeat;
+}
+
+h1.myheading {
+    color: wheat;
+    font-size: -webkit-xxx-large;
+    font-style: inherit;
+    font-weight: bolder;
+    margin-left: 325px;
+    font-family: -webkit-body;
+    font-style: italic;
+    text-shadow: 2px 2px #F98F3C;
+}
+h3.subheading {
+    font-size: -webkit-xxx-large;
+    color: brown;
+    font-weight: 600;
+    margin-left: 421px;
+    margin-top: 0%;
+}
+
+a.btn.btn-danger.btn-lg {
+    margin-left: 37%;
+    margin-top: 5%;
+    margin-right: -23%;
+}
+a#admin {
+    margin-left: 34%;
+}
+img#user_icon {
+    width: 117px;
+    margin-left: 438px;
+    margin-bottom: -52px;
+    margin-right: -42px;
+    margin-top: 1px;
+
+}
+img#admin_icon {
+    width: 117px;
+    margin-left: 645px;
+    margin-bottom: -155px;
+    margin-top: -69px;
+}
+#lightbox {
+    position: fixed;
+    top: 188px;
+    left: 282px;
+    width: 50%;
+    height: 50%;
+    background: url(/content/ttnbucks/ttnbucks_img/overlay.png) repeat;
+    text-align: center;
+}
+#lightbox p {
+    text-align:right;
+    color:#fff;
+    margin-right:20px;
+    font-size:12px;
+}
+#lightbox img {
+    box-shadow:0 0 25px #111;
+    -webkit-box-shadow:0 0 25px #111;
+    -moz-box-shadow:0 0 25px #111;
+    max-width:940px;
+}
+#lightbox label {
+    color: black;
+    margin-right: 64px;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 75px;
+}
+input#verify {
+    margin-top: 58px;
+    font-size: x-large;
+    font-weight: 900;
+    color: black;
+}
+p#message {
+    color: black;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-right: 221px;
+    margin-top: 21px;
+
+}
+a#adminMenuBack {
+    margin-left: 29px;
+    margin-bottom: -27px;
+}
+
+
